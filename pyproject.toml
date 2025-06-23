@@ -5,3 +5,4 @@ description = "A list of awesome remote sensing image captioning resources"
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # handle the edge case from the last release
+# guard against empty input
